@@ -1,0 +1,22 @@
+Final Project Proposal 
+
+(Original Project Proposal was placed under Homework since my repository wasn't working, but I've since changed my project idea. The last one was difficult to find data sets from.)
+
+My proposed families are: 
+-Strigiformes (Owls)
+-Chiroptera (Bats)
+-Canidae (Dogs)
+
+I added an extra set of Ailuridae (Red Pandas), but since there are so few records on the species, I may simply use it as simple testing data for my codes. 
+
+To find the number of specific species in each family, use: 
+cut -d "," -f 6-7 [FILE NAME] | sort -n | uniq | grep "species" | wc -l
+
+cut -d "," -f 6-7 strigiformesdataset.csv | sort -n | uniq | grep "species" | wc -l
+	Strigiformes has 76 unique species
+cut -d "," -f 6-7 chiropteradataset.csv | sort -n | uniq | grep "species" | wc -l
+	Chiroptera has 436 unique species
+cut -d "," -f 6-7 canidaedataset.csv | sort -n | uniq | grep "species" | wc -l
+	Canidae has 383 unique species
+cut -d "," -f 6-7 redpandadataset\(practice\).csv | sort -n | uniq | grep "species" | wc -l
+	Ailuridae has 15 unique species
