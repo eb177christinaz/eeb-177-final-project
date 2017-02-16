@@ -1,0 +1,12 @@
+Manipulating Data
+
+Loops to write: 
+appearanceandspecies = []
+for species in (identified_species column):
+	return (early_interval column).append(appearnaceandspecies)
+
+My code will require both shell and python, and I will later use this information to graph the rise and fall of species diversity in chiroptera, canidae, and strigiformes families. 
+
+I will also create a dictionary to store the species and appearnace eras and have the loop append to the dictionary for each unique set.If there are doubles, I will write code to count the repeitions to better create the graph of species diversity over time. 
+
+The x axis will be the time intervals and the y axis will likely be species unless my data prohibits me in some form. I will do this for all species. 
