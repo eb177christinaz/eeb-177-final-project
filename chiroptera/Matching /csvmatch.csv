@@ -1,0 +1,417 @@
+172621,occ,21642,,15917,Honrovits tsuwape,species,145195,Lostcabinian,,55.8,50.3,1045,n
+173336,occ,,,16073,Ageina tobieni,species,149432,Lostcabinian,,55.8,50.3,3329,n
+173337,occ,,,16073,Honrovits tsuwape,species,145195,Lostcabinian,,55.8,50.3,1045,n
+176217,occ,,,16626,Wallia scalopidens,species,52692,Late Uintan,,46.2,40.4,3305,n
+177599,occ,3330,,16845,Wallia scalopidens,species,52692,Duchesnean,,40.4,37.2,3317,n
+178309,occ,,,16941,Chadronycteris rabenae,species,136157,Chadronian,,37.2,33.9,2716,n
+179091,occ,,,17014,Chadronycteris rabenae,species,136157,Chadronian,,37.2,33.9,2716,n
+184096,occ,,,18031,Potamonycteris biperforatus,species,135920,Barstovian,,15.97,13.6,1294,n
+185407,occ,5732,,18198,Antrozous pallidus,species,52646,Hemphillian,,10.3,4.9,1296,YES
+187428,occ,,,18463,Myotis yumanensis,species,52651,Clarendonian,,13.6,10.3,1317,YES
+188169,occ,,,18597,Suaptenos whitei,species,136038,Hemingfordian,,20.43,15.97,28489,n
+188170,occ,,,18597,Miomyotis floridanus,species,136040,Hemingfordian,,20.43,15.97,28489,n
+193102,occ,8427,,19638,Eumops perotis,species,48789,Blancan,,4.9,1.8,1295,YES
+193131,occ,8436,,19645,Histiotus stocki,species,51573,Blancan,,4.9,1.8,6294,n
+193167,occ,8444,,19650,Antrozous pallidus,species,52646,Blancan,,4.9,1.8,1295,YES
+193473,occ,,,19708,Eptesicus fuscus,species,52640,Blancan,,4.9,1.8,1295,YES
+193811,occ,,,19766,Lasiurus fossilis,species,47492,Blancan,,4.9,1.8,3404,n
+194124,occ,,,19908,Antrozous pallidus,species,52646,Blancan,,4.9,1.8,3404,YES
+194323,occ,,,19931,Lasiurus fossilis,species,47492,Blancan,,4.9,1.8,1860,n
+194408,occ,,,19936,Lasiurus fossilis,species,47492,Blancan,,4.9,1.8,1894,n
+194780,occ,,,19966,Antrozous pallidus,species,52646,Hemphillian,Blancan,10.3,1.8,1295,YES
+195187,occ,,,20060,Lasionycteris noctivagans,species,52645,Blancan,,4.9,1.8,6330,YES
+195188,occ,,,20060,Eptesicus fuscus,species,52640,Blancan,,4.9,1.8,6330,YES
+195189,occ,,,20060,Lasiurus borealis,species,52636,Blancan,,4.9,1.8,6330,YES
+195190,occ,,,20060,Antrozous pallidus,species,52646,Blancan,,4.9,1.8,6330,YES
+195487,occ,,,20106,Anzanycteris anzensis,species,44139,Blancan,,4.9,1.8,1186,n
+195503,occ,,,20107,Anzanycteris anzensis,species,44139,Blancan,,4.9,1.8,1186,n
+196173,occ,,,20164,Eptesicus fuscus,species,52640,Irvingtonian,,1.8,0.3,1319,YES
+196796,occ,,,20289,Pipistrellus subflavus,species,52648,Irvingtonian,,1.8,0.3,2436,YES
+196797,occ,,,20289,Myotis austroriparius,species,52635,Irvingtonian,,1.8,0.3,2436,YES
+196798,occ,,,20289,Plecotus rafinesquii,species,52647,Irvingtonian,,1.8,0.3,2436,YES
+196840,occ,9343,,20290,Eptesicus fuscus,species,52640,Irvingtonian,,1.8,0.3,6294,YES
+196841,occ,,,20290,Myotis leibi,species,52643,Irvingtonian,,1.8,0.3,6221,YES
+196917,occ,,,20295,Lasiurus cinereus,species,52638,Irvingtonian,,1.8,0.3,1907,YES
+196918,occ,,,20295,Lasiurus golliheri,species,45558,Irvingtonian,,1.8,0.3,1907,n
+197031,occ,9391,,20302,Eptesicus fuscus,species,52640,Irvingtonian,,1.8,0.3,6294,YES
+197032,occ,9392,,20302,Plecotus alleganiensis,species,45286,Irvingtonian,,1.8,0.3,1628,n
+197542,occ,,,20350,Desmodus archaeodaptes,species,270547,Irvingtonian,,1.8,0.3,2615,n
+197543,occ,,,20350,Myotis austroriparius,species,52635,Irvingtonian,,1.8,0.3,2611,YES
+197569,occ,,,20351,Desmodus archaeodaptes,species,270547,Irvingtonian,,1.8,0.3,2615,n
+197570,occ,,,20351,Myotis austroriparius,species,52635,Irvingtonian,,1.8,0.3,2611,YES
+197767,occ,9556,,20384,Desmodus archaeodaptes,species,270547,Blancan,,4.9,1.8,2611,n
+197772,occ,,,20384,Pipistrellus subflavus,species,52648,Blancan,,4.9,1.8,3580,YES
+198174,occ,,,20423,Lasiurus cinereus,species,52638,Irvingtonian,,1.8,0.3,1887,YES
+198305,occ,,,20444,Myotis velifer,species,52649,Irvingtonian,,1.8,0.3,1298,YES
+198314,occ,,,20445,Myotis thysanodes,species,48918,Irvingtonian,,1.8,0.3,1298,YES
+198580,occ,,,20491,Desmodus stocki,species,45613,Rancholabrean,,0.3,0.012,3580,n
+198581,occ,,,20491,Myotis austroriparius,species,52635,Rancholabrean,,0.3,0.012,3580,YES
+198582,occ,,,20491,Lasiurus borealis,species,52636,Rancholabrean,,0.3,0.012,3580,YES
+198583,occ,,,20491,Lasiurus intermedius,species,47494,Rancholabrean,,0.3,0.012,3580,YES
+198584,occ,,,20491,Tadarida brasiliensis,species,49249,Rancholabrean,,0.3,0.012,3580,YES
+199032,occ,,,20554,Pipistrellus subflavus,species,52648,Irvingtonian,,1.8,0.3,6221,YES
+199033,occ,,,20554,Eptesicus fuscus,species,52640,Irvingtonian,,1.8,0.3,6221,YES
+199260,occ,,,20572,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,3567,YES
+199283,occ,,,20573,Desmodus stocki,species,45613,Late Pleistocene,,0.126,0.0117,3580,n
+199284,occ,,,20573,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,3580,YES
+199285,occ,,,20573,Lasiurus intermedius,species,47494,Late Pleistocene,,0.126,0.0117,3580,YES
+199442,occ,,,20595,Desmodus stocki,species,45613,Late Pleistocene,,0.126,0.0117,3567,n
+199443,occ,,,20595,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,3567,YES
+199444,occ,,,20595,Lasiurus intermedius,species,47494,Late Pleistocene,,0.126,0.0117,3567,YES
+199578,occ,,,20608,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,3567,YES
+199799,occ,,,20634,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,3567,YES
+212882,occ,,,21686,Artibeus jamaicensis,species,160956,Holocene,,0.0117,0,4785,YES
+212884,occ,,,21686,Desmodus rotundus,species,235347,Holocene,,0.0117,0,4785,YES
+212894,occ,,,21686,Trachops cirrhosus,species,117399,Holocene,,0.0117,0,4785,YES
+212903,occ,,,21686,Noctilio leporinus,species,104144,Holocene,,0.0117,0,4785,YES
+212904,occ,,,21686,Noctilio albiventris,species,269558,Holocene,,0.0117,0,4785,YES
+212915,occ,,,21686,Eumops glaucinus,species,45958,Holocene,,0.0117,0,4785,YES
+212927,occ,,,21686,Lasiurus borealis,species,52636,Holocene,,0.0117,0,4785,YES
+232547,occ,,,18597,Karstala silva,species,83781,Hemingfordian,,20.43,15.97,6736,n
+343559,occ,10306,,32240,Rhinolophus delphinensis,species,91951,MN 14,,4.9,4.2,8683,n
+343561,occ,,,32240,Plecotus crassidens,species,53414,MN 14,,4.9,4.2,8865,n
+344815,occ,,,32485,Rhinolophus ferrumequinum,species,236716,MN 17,,2.588,1.806,8762,YES
+351236,occ,,,33396,Rhinolophus delphinensis,species,91951,MN 15,,4.2,3.2,8869,n
+351237,occ,,,33396,Rhinolophus grivensis,species,91931,MN 15,,4.2,3.2,8869,n
+351238,occ,,,33396,Plecotus crassidens,species,53414,MN 15,,4.2,3.2,8869,n
+351243,occ,,,33396,Myotis helleri,species,54029,MN 15,,4.2,3.2,8869,n
+358958,occ,,,32240,Rhinolophus grivensis,species,91931,MN 14,,4.9,4.2,8683,n
+360298,occ,,,34127,Plecotus auritus,species,104145,Pleistocene,,2.588,0.0117,8650,YES
+360355,occ,,,34128,Rhinolophus ferrumequinum,species,236716,Pleistocene,,2.588,0.0117,8987,YES
+360356,occ,,,34128,Rhinolophus euryale,species,94476,Pleistocene,,2.588,0.0117,8987,YES
+369034,occ,,,34911,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,9372,YES
+370321,occ,,,26752,Myotis boyeri,species,91942,Late Miocene,,11.608,5.333,9426,n
+370323,occ,,,26752,Miniopterus fossilis,species,92013,Late Miocene,,11.608,5.333,9426,n
+370464,occ,,,35076,Rhinolophus ferrumequinum,species,236716,Pliocene,Pleistocene,5.333,0.0117,9424,YES
+374140,occ,,,35369,Eptesicus praeglacialis,species,99166,Villanyian,,3.2,2.588,9534,n
+374141,occ,,,35369,Rhinolophus ferrumequinum,species,236716,Villanyian,,3.2,2.588,9534,YES
+374197,occ,,,35370,Rhinolophus ferrumequinum,species,236716,Villanyian,,3.2,2.588,9534,YES
+374198,occ,,,35370,Rhinolophus euryale,species,94476,Villanyian,,3.2,2.588,9534,YES
+374242,occ,,,35371,Rhinolophus ferrumequinum,species,236716,Villanyian,,3.2,2.588,9534,YES
+375965,occ,,,35472,Rhinolophus ferrumequinum,species,236716,Middle Pleistocene,,0.781,0.126,9534,YES
+375974,occ,,,35472,Plecotus auritus,species,104145,Middle Pleistocene,,0.781,0.126,9534,YES
+376062,occ,,,35476,Rhinolophus ferrumequinum,species,236716,Middle Pleistocene,,0.781,0.126,9534,YES
+376077,occ,,,35476,Plecotus auritus,species,104145,Middle Pleistocene,,0.781,0.126,9534,YES
+377031,occ,,,18597,Primonatalus prattae,species,56186,Hemingfordian,,20.43,15.97,9610,n
+379646,occ,,,35907,Plecotus auritus,species,104145,Early Pleistocene,Middle Pleistocene,2.588,0.126,9643,YES
+383637,occ,,,36452,Myotis myotis,species,109090,Pleistocene,,2.588,0.0117,9767,YES
+383641,occ,,,36517,Myotis myotis,species,109090,Pleistocene,,2.588,0.0117,9767,YES
+387080,occ,,,36974,Rhinolophus grivensis,species,91931,Pleistocene,,2.588,0.0117,9885,n
+387605,occ,,,37050,Rhinolophus grivensis,species,91931,Burdigalian,,20.44,15.97,9929,n
+387607,occ,,,37050,Hipposideros (Brachipposideros) dechaseauxi,species,92092,Burdigalian,,20.44,15.97,9929,n
+387608,occ,,,37050,Hipposideros (Pseudorhinolophus) bouziguensis,species,92094,Burdigalian,,20.44,15.97,9929,n
+387609,occ,,,37050,Asellia mariaetheresae,species,92042,Burdigalian,,20.44,15.97,9929,n
+393077,occ,,,37809,Icaronycteris index,species,56929,Wasatchian,,55.8,50.3,10080,n
+396908,occ,,,38137,Eptesicus campanensis,species,56998,MN 6,,13.65,12.75,10239,n
+398216,occ,,,13066,Myotis lucifugus,species,52644,Pleistocene,,2.588,0.0117,10274,YES
+398217,occ,,,13066,Myotis grisescens,species,119647,Pleistocene,,2.588,0.0117,10274,YES
+398218,occ,,,13066,Pipistrellus subflavus,species,52648,Pleistocene,,2.588,0.0117,10274,YES
+398219,occ,,,13066,Eptesicus fuscus,species,52640,Pleistocene,,2.588,0.0117,10274,YES
+411480,occ,,,39797,Rhinolophus ferrumequinum,species,236716,Early Pleistocene,,2.588,0.781,10779,YES
+411500,occ,,,39797,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,10779,YES
+413493,occ,,,38868,Eppsinycteris anglica,species,57564,Ypresian,,56,47.8,10844,n
+420005,occ,,,40808,Rhinolophus ferrumequinum,species,236716,Middle Pleistocene,,0.781,0.126,11028,YES
+421621,occ,,,40995,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,11570,YES
+421631,occ,,,40997,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,11051,YES
+421643,occ,,,40998,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,11051,YES
+421658,occ,,,41000,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,11051,YES
+421670,occ,,,41001,Rhinolophus euryale,species,94476,Early Pleistocene,,2.588,0.781,11051,YES
+442581,occ,,,43619,Rhinolophus ferrumequinum,species,236716,Late Pleistocene,,0.126,0.0117,11457,YES
+442583,occ,,,43619,Myotis myotis,species,109090,Late Pleistocene,,0.126,0.0117,11457,YES
+442587,occ,,,43619,Vespertilio murinus,species,104146,Late Pleistocene,,0.126,0.0117,11457,YES
+442652,occ,,,43629,Myotis myotis,species,109090,Late Pleistocene,,0.126,0.0117,11457,YES
+442696,occ,,,43631,Myotis myotis,species,109090,Late Pleistocene,,0.126,0.0117,11457,YES
+455784,occ,,,12840,Vespertiliavus gracilis,species,348690,Bartonian,,41.3,38,11650,n
+455788,occ,,,12840,Palaeophyllophora quercyi,species,348691,Bartonian,,41.3,38,11650,n
+455789,occ,,,12840,Hipposideros schlosseri,species,255161,Bartonian,,41.3,38,11650,n
+455796,occ,,,12840,Hipposideros schlosseri,species,255161,Bartonian,,41.3,38,11650,n
+456664,occ,,,13322,Cecilionycteris prisca,species,135929,Lutetian,,47.8,41.3,11714,n
+466575,occ,,,46263,Myotis murinoides,species,92031,MN 7 + 8,,12.75,11.1,12335,n
+472507,occ,,,46955,Rhinolophus delphinensis,species,91951,MN 5,,15.97,13.65,12472,n
+472508,occ,,,46955,Eptesicus campanensis,species,56998,MN 5,,15.97,13.65,12472,n
+474182,occ,,,12841,Hipposideros morloti,species,348692,Priabonian,,38,33.9,7272,n
+474183,occ,,,12841,Hipposideros schlosseri,species,255161,Priabonian,,38,33.9,7272,n
+474220,occ,,,12843,Hipposideros morloti,species,348692,Priabonian,,38,33.9,7272,n
+474221,occ,,,12843,Hipposideros schlosseri,species,255161,Priabonian,,38,33.9,7272,n
+474222,occ,,,12843,Palaeophyllophora quercyi,species,348691,Priabonian,,38,33.9,7272,n
+474223,occ,,,12843,Rhinolophus priscus,species,136292,Priabonian,,38,33.9,7272,n
+474332,occ,,,12849,Hipposideros schlosseri,species,255161,Priabonian,,38,33.9,7272,n
+474334,occ,,,12849,Palaeophyllophora oltina,species,349278,Priabonian,,38,33.9,7272,n
+474335,occ,,,12849,Rhinolophus priscus,species,136292,Priabonian,,38,33.9,7272,n
+474336,occ,,,12849,Vespertiliavus gracilis,species,348690,Priabonian,,38,33.9,7272,n
+474338,occ,,,12849,Stehlinia gracilis,species,136294,Priabonian,,38,33.9,7272,n
+474361,occ,,,12851,Hipposideros morloti,species,348692,MP 18,,37.2,33.9,12515,n
+474384,occ,,,12852,Rhinolophus priscus,species,136292,Priabonian,,38,33.9,7272,n
+474421,occ,,,12850,Hipposideros schlosseri,species,255161,Late Eocene,,37.2,33.9,7272,n
+474422,occ,,,12850,Hipposideros morloti,species,348692,Late Eocene,,37.2,33.9,7272,n
+474424,occ,,,12850,Palaeophyllophora quercyi,species,348691,Late Eocene,,37.2,33.9,7272,n
+474426,occ,,,12850,Vespertiliavus gracilis,species,348690,Late Eocene,,37.2,33.9,7272,n
+474429,occ,,,12850,Stehlinia gracilis,species,136294,Late Eocene,,37.2,33.9,7272,n
+492216,occ,,,31765,Hipposideros morloti,species,348692,Priabonian,,38,33.9,12515,n
+492217,occ,,,31765,Hipposideros schlosseri,species,255161,Priabonian,,38,33.9,12515,n
+492218,occ,,,31765,Rhinolophus priscus,species,136292,Priabonian,,38,33.9,12515,n
+492227,occ,,,31764,Palaeophyllophora oltina,species,349278,Priabonian,,38,33.9,12515,n
+492229,occ,,,31764,Hipposideros morloti,species,348692,Priabonian,,38,33.9,12515,n
+492230,occ,,,31764,Hipposideros schlosseri,species,255161,Priabonian,,38,33.9,12515,n
+492232,occ,,,31764,Rhinolophus priscus,species,136292,Priabonian,,38,33.9,12515,n
+497492,occ,,,50249,Plecotus auritus,species,104145,Middle Pleistocene,,0.781,0.126,9643,n
+497632,occ,,,50258,Vespertilio murinus,species,104146,Middle Pleistocene,,0.781,0.126,9643,YES
+528247,occ,,,53951,Archerops annectens,species,67827,Middle Miocene,,15.97,11.608,14552,n
+536434,occ,,,55494,Cambaya complexus,species,68273,Ypresian,,56,47.8,14970,n
+536470,occ,,,55494,Jaegeria cambayensis,species,68287,Ypresian,,56,47.8,14980,n
+540503,occ,,,43397,Shanwangia unexpectata,species,68707,Astaracian,,15.97,11.608,15140,n
+598816,occ,,,63515,Lophostoma silvicolum,species,117398,Late Pleistocene,,0.126,0.0117,18256,YES
+598817,occ,,,63515,Trachops cirrhosus,species,117399,Late Pleistocene,,0.126,0.0117,18256,YES
+598821,occ,,,63515,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,18256,YES
+599290,occ,,,63566,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,18288,YES
+599328,occ,,,63565,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,18288,YES
+599356,occ,,,63568,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,18288,YES
+599372,occ,,,63569,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,18288,YES
+599420,occ,,,63571,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,18288,YES
+599841,occ,,,63724,Antrozous pallidus,species,52646,Holocene,,0.0117,0,18307,YES
+599843,occ,,,63724,Eumops perotis,species,48789,Holocene,,0.0117,0,18307,YES
+599858,occ,,,63723,Eptesicus fuscus,species,52640,Holocene,,0.0117,0,18307,YES
+608447,occ,,,20636,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,18730,YES
+623127,occ,,,66945,Megaderma vireti,species,91900,MN 10,,9.7,8.7,19062,n
+623128,occ,,,66945,Rhinolophus grivensis,species,91931,MN 10,,9.7,8.7,19062,n
+623129,occ,,,66943,Rhinolophus delphinensis,species,91951,MN 9,,11.1,9.7,19062,n
+623130,occ,,,66943,Rhinolophus grivensis,species,91931,MN 9,,11.1,9.7,19062,n
+625000,occ,,,55602,Noctilio lacrimaelunaris,species,266644,Tortonian,,11.62,7.246,19222,n
+632237,occ,,,37789,Megaderma vireti,species,91900,MN 11,,8.7,7.75,19444,n
+632238,occ,,,37789,Rhinolophus delphinensis,species,91951,MN 11,,8.7,7.75,19444,n
+632268,occ,,,37789,Rhinolophus grivensis,species,91931,MN 11,,8.7,7.75,19465,n
+632269,occ,,,37789,Myotis boyeri,species,91942,MN 11,,8.7,7.75,19465,n
+633783,occ,,,68218,Megaderma vireti,species,91900,MN 13,,7.246,4.9,19622,n
+633784,occ,,,68218,Rhinolophus delphinensis,species,91951,MN 13,,7.246,4.9,19622,n
+633786,occ,,,68218,Myotis boyeri,species,91942,MN 13,,7.246,4.9,19622,n
+635590,occ,,,68380,Rhinolophus ferrumequinum,species,236716,Early Pleistocene,,2.588,0.781,19685,YES
+641076,occ,,,69062,Myotis myotis,species,109090,Middle Pleistocene,,0.781,0.126,19913,YES
+641077,occ,,,69062,Rhinolophus ferrumequinum,species,236716,Middle Pleistocene,,0.781,0.126,19913,YES
+641078,occ,,,69062,Rhinolophus euryale,species,94476,Middle Pleistocene,,0.781,0.126,19913,YES
+645281,occ,19017,,69711,Megaderma lugdunensis,species,91889,MN 6,,13.65,12.75,12845,n
+645282,occ,,,69711,Miniopterus fossilis,species,92013,MN 6,,13.65,12.75,23390,n
+645283,occ,,,69711,Paleptesicus priscus,species,92011,MN 6,,13.65,12.75,23390,n
+645284,occ,,,69711,Rhinolophus delphinensis,species,91951,MN 6,,13.65,12.75,23390,n
+645285,occ,,,69711,Rhinolophus grivensis,species,91931,MN 6,,13.65,12.75,23390,n
+647801,occ,,,49521,Tadarida leptognatha,species,92101,MN 6,,13.65,12.75,23504,n
+647802,occ,,,49522,Tadarida engesseri,species,92100,MN 6,,13.65,12.75,23504,n
+647804,occ,,,68040,Megaderma franconica,species,91891,MN 3,,20,16.9,23507,n
+647805,occ,,,68040,Eptesicus aurelianensis,species,92010,MN 3,,20,16.9,23507,n
+647806,occ,,,68040,Rhinolophus dehmi,species,91955,MN 3,,20,16.9,23507,n
+647807,occ,,,49521,Miostrellus risgoviensis,species,92015,MN 6,,13.65,12.75,23504,n
+650767,occ,,,69098,Eptesicus aurelianensis,species,92010,MN 4,,16.9,15.97,23602,n
+654930,occ,,,70705,Eumops perotis,species,48789,Holocene,,0.0117,0,19694,YES
+661455,occ,,,71263,Antrozous pallidus,species,52646,Late Pleistocene,Holocene,0.126,0,24053,YES
+661489,occ,,,71264,Balantiopteryx io,species,160954,Late Pleistocene,,0.126,0.0117,24062,YES
+661490,occ,,,71264,Leptonycteris nivalis,species,47369,Late Pleistocene,,0.126,0.0117,24062,YES
+661491,occ,,,71264,Artibeus jamaicensis,species,160956,Late Pleistocene,,0.126,0.0117,24062,YES
+661494,occ,,,71264,Tadarida brasiliensis,species,49249,Late Pleistocene,,0.126,0.0117,24062,YES
+661495,occ,,,71264,Tadarida laticaudata,species,160960,Late Pleistocene,,0.126,0.0117,24062,n
+661496,occ,,,71264,Tadarida aurispinosa,species,160964,Late Pleistocene,,0.126,0.0117,24062,n
+661497,occ,,,71264,Eumops perotis,species,48789,Late Pleistocene,,0.126,0.0117,24062,YES
+661908,occ,,,71313,Chrotopterus auritus,species,273786,Late Pleistocene,Holocene,0.126,0,24122,YES
+661910,occ,,,71313,Desmodus rotundus,species,235347,Late Pleistocene,Holocene,0.126,0,24122,n
+661911,occ,,,71313,Desmodus draculae,species,270550,Late Pleistocene,Holocene,0.126,0,24122,n
+661913,occ,,,71313,Tadarida brasiliensis,species,49249,Late Pleistocene,Holocene,0.126,0,24122,YES
+662016,occ,,,71324,Eumops perotis,species,48789,Holocene,,0.0117,0,23916,YES
+662143,occ,,,71335,Desmodus rotundus,species,235347,Late Pleistocene,,0.126,0.0117,24109,YES
+662199,occ,,,71345,Plecotus tetralophodon,species,45287,Late Pleistocene,,0.126,0.0117,24078,n
+663414,occ,24364,,55494,Icaronycteris sigei,species,178563,Ypresian,,56,47.8,35350,n
+663415,occ,24365,,55494,Archaeonycteris storchi,species,178567,Ypresian,,56,47.8,35350,n
+665419,occ,,,71662,Eptesicus praeglacialis,species,99166,Early Pleistocene,,2.588,0.781,24188,n
+665420,occ,,,71662,Plecotus crassidens,species,53414,Early Pleistocene,,2.588,0.781,24188,n
+690464,occ,,,74246,Eptesicus fuscus,species,52640,Pleistocene,,2.588,0.0117,24936,YES
+690650,occ,,,74292,Eumops glaucinus,species,45958,Late Pleistocene,,0.126,0.0117,24947,YES
+691183,occ,,,74473,Myotis lucifugus,species,52644,Late Pleistocene,,0.126,0.0117,1326,YES
+691184,occ,,,74473,Myotis velifer,species,52649,Late Pleistocene,,0.126,0.0117,1326,YES
+691185,occ,,,74473,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,1326,YES
+691223,occ,,,74474,Myotis velifer,species,52649,Holocene,,0.0117,0,1326,YES
+691224,occ,,,74474,Pipistrellus hesperus,species,51504,Holocene,,0.0117,0,1326,YES
+691225,occ,,,74474,Antrozous pallidus,species,52646,Holocene,,0.0117,0,1326,YES
+691227,occ,,,74474,Tadarida brasiliensis,species,49249,Holocene,,0.0117,0,1326,YES
+691623,occ,,,74497,Desmodus stocki,species,45613,Late Pleistocene,,0.126,0.0117,24993,n
+691624,occ,,,74497,Myotis thysanodes,species,48918,Late Pleistocene,,0.126,0.0117,24993,YES
+704811,occ,,,22701,Tachypteron franzeni,species,110059,MP 11,,48.6,40.4,25533,n
+709920,occ,,,76059,Myotis velifer,species,52649,Late Pleistocene,,0.126,0.0117,25748,YES
+709922,occ,,,76059,Antrozous pallidus,species,52646,Late Pleistocene,,0.126,0.0117,25748,YES
+709923,occ,,,76059,Tadarida brasiliensis,species,49249,Late Pleistocene,,0.126,0.0117,25748,YES
+709993,occ,,,76060,Desmodus stocki,species,45613,Late Pleistocene,,0.126,0.0117,25748,n
+709994,occ,,,76060,Myotis lucifugus,species,52644,Late Pleistocene,,0.126,0.0117,25748,YES
+709995,occ,,,76060,Myotis velifer,species,52649,Late Pleistocene,,0.126,0.0117,25748,YES
+709996,occ,,,76060,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,25748,YES
+710002,occ,,,76060,Antrozous pallidus,species,52646,Late Pleistocene,,0.126,0.0117,25748,YES
+710003,occ,,,76060,Tadarida brasiliensis,species,49249,Late Pleistocene,,0.126,0.0117,25748,YES
+732837,occ,,,78640,Cubanycteris silvai,species,117434,Late Pleistocene,,0.126,0.0117,26442,n
+732844,occ,,,78640,Artibeus jamaicensis,species,160956,Late Pleistocene,,0.126,0.0117,26442,YES
+732845,occ,,,78640,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,26442,YES
+732847,occ,,,78640,Antrozous pallidus,species,52646,Late Pleistocene,,0.126,0.0117,26442,YES
+732849,occ,,,78640,Lasiurus borealis,species,52636,Late Pleistocene,,0.126,0.0117,26442,YES
+732850,occ,,,78640,Lasiurus intermedius,species,47494,Late Pleistocene,,0.126,0.0117,26442,YES
+733258,occ,,,78672,Onychonycteris finneyi,species,117585,Lostcabinian,,55.8,50.3,26452,n
+740895,occ,,,79661,Myotis grisescens,species,119647,Pleistocene,,2.588,0.0117,26764,YES
+740896,occ,,,79662,Myotis grisescens,species,119647,Pleistocene,Holocene,2.588,0,26764,YES
+740897,occ,,,79663,Myotis grisescens,species,119647,Pleistocene,Holocene,2.588,0,26764,YES
+740898,occ,,,79661,Myotis keenii,species,52642,Pleistocene,,2.588,0.0117,26764,YES
+740899,occ,,,79662,Pipistrellus subflavus,species,52648,Pleistocene,Holocene,2.588,0,26764,YES
+740900,occ,,,79663,Eptesicus fuscus,species,52640,Pleistocene,Holocene,2.588,0,26764,YES
+740915,occ,,,20302,Myotis grisescens,species,119647,Irvingtonian,,1.8,0.3,26764,YES
+781619,occ,,,84195,Myotis lucifugus,species,52644,Late Pleistocene,,0.126,0.0117,28192,YES
+781621,occ,,,84195,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,28192,YES
+781622,occ,,,84195,Nycticeius humeralis,species,52641,Late Pleistocene,,0.126,0.0117,28192,YES
+784442,occ,,,31499,Tanzanycteris mannardi,species,134910,Lutetian,,47.8,41.3,28370,n
+786113,occ,,,84793,Archaeopteropus transiens,species,135790,Early Oligocene,,33.9,28.4,28452,n
+786144,occ,,,84800,Tadarida rusingae,species,135841,Burdigalian,,20.44,15.97,28456,n
+786667,occ,,,84865,Xenorhinos halli,species,136146,Early Miocene,,23.03,15.97,28492,n
+786685,occ,,,84865,Brevipalatus mcculloughi,species,136223,Early Miocene,,23.03,15.97,28497,n
+786688,occ,,,84865,Riversleigha williamsi,species,348471,Early Miocene,,23.03,15.97,28497,n
+786711,occ,,,12954,Philisis sphingis,species,136264,Rupelian,,33.9,28.1,28499,n
+786712,occ,,,67706,Witwatia schlosseri,species,136266,Priabonian,,38,33.9,28499,n
+786713,occ,,,67706,Witwatia eremicus,species,136267,Priabonian,,38,33.9,28499,n
+786714,occ,,,67706,Qarunycteris moerisae,species,136272,Priabonian,,38,33.9,28499,n
+786715,occ,,,60127,Dhofarella sigei,species,136270,Rupelian,,33.9,28.1,28499,n
+786716,occ,,,60127,Saharaderma pseudovampyrus,species,136274,Rupelian,,33.9,28.1,28499,n
+786717,occ,,,60127,Khonsunycteris aegypticus,species,136276,Rupelian,,33.9,28.1,28499,n
+808567,occ,,,15916,Honrovits tsuwape,species,145195,Wasatchian,,55.8,50.3,1045,n
+820525,occ,,,35533,Icaronycteris menui,species,149422,Ypresian,,56,47.8,30281,n
+820526,occ,,,35533,Archaeonycteris brailloni,species,149428,Ypresian,,56,47.8,30281,n
+820527,occ,,,35533,Ageina tobieni,species,149432,Ypresian,,56,47.8,30281,n
+820529,occ,,,35535,Icaronycteris menui,species,149422,Ypresian,,56,47.8,30281,n
+820530,occ,,,35535,Archaeonycteris brailloni,species,149428,Ypresian,,56,47.8,30281,n
+836000,occ,,,92787,Rhinolophus ferrumequinum,species,236716,Late Pleistocene,,0.126,0.0117,31309,YES
+837014,occ,,,92812,Phyllops silvai,species,159103,Late Pleistocene,,0.126,0.0117,31330,n
+837016,occ,,,92812,Antrozous pallidus,species,52646,Late Pleistocene,,0.126,0.0117,31330,YES
+839062,occ,,,93141,Myotis thysanodes,species,48918,Late Pleistocene,,0.126,0.0117,31472,YES
+839063,occ,,,93141,Antrozous pallidus,species,52646,Late Pleistocene,,0.126,0.0117,31472,YES
+840127,occ,,,93183,Lasionycteris noctivagans,species,52645,Late Pleistocene,,0.126,0.0117,31489,YES
+840128,occ,,,93183,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,31489,YES
+841682,occ,,,93326,Plecotus townsendii,species,50428,Late Pleistocene,Holocene,0.126,0,31567,YES
+841683,occ,,,93326,Antrozous pallidus,species,52646,Late Pleistocene,Holocene,0.126,0,31567,YES
+841946,occ,,,93374,Antrozous pallidus,species,52646,Late Pleistocene,Holocene,0.126,0,31595,YES
+847650,occ,,,94307,Pipistrellus subflavus,species,52648,Late Pliocene,,3.6,2.588,32066,YES
+847745,occ,,,94308,Lasiurus borealis,species,52636,Late Pliocene,,3.6,2.588,32066,YES
+847746,occ,,,94308,Lasiurus seminolus,species,306423,Late Pliocene,,3.6,2.588,32066,YES
+851052,occ,,,94615,Tadarida brasiliensis,species,49249,Holocene,,0.0117,0,32225,YES
+906517,occ,,,101898,Rhinolophus ferrumequinum,species,236716,Late Pleistocene,,0.126,0.0117,34644,YES
+906573,occ,,,101899,Rhinolophus ferrumequinum,species,236716,Late Pleistocene,,0.126,0.0117,34644,YES
+906575,occ,,,101899,Plecotus auritus,species,104145,Late Pleistocene,,0.126,0.0117,34644,YES
+915251,occ,,,103991,Myotis lucifugus,species,52644,Late Pleistocene,,0.126,0.0117,35027,YES
+915252,occ,,,103991,Myotis keenii,species,52642,Late Pleistocene,,0.126,0.0117,35027,YES
+915253,occ,,,103991,Myotis grisescens,species,119647,Late Pleistocene,,0.126,0.0117,35027,YES
+915254,occ,,,103991,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,35027,YES
+915255,occ,,,103991,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,35027,YES
+915256,occ,,,103991,Plecotus townsendii,species,50428,Late Pleistocene,,0.126,0.0117,35027,YES
+915257,occ,,,103991,Lasiurus borealis,species,52636,Late Pleistocene,,0.126,0.0117,35027,YES
+915677,occ,,,104758,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,34884,YES
+919174,occ,,,104034,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,1461,YES
+919226,occ,,,104035,Myotis lucifugus,species,52644,Late Pleistocene,Holocene,0.126,0,1461,YES
+919232,occ,,,104035,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,1461,YES
+919385,occ,,,104672,Myotis lucifugus,species,52644,Late Pleistocene,Holocene,0.126,0,1461,YES
+919388,occ,,,104672,Eptesicus fuscus,species,52640,Late Pleistocene,Holocene,0.126,0,1461,YES
+919423,occ,,,20388,Eptesicus fuscus,species,52640,Irvingtonian,,1.8,0.3,1461,YES
+919537,occ,,,104689,Lasionycteris noctivagans,species,52645,Late Pleistocene,Holocene,0.126,0,1461,YES
+920315,occ,,,104662,Eptesicus fuscus,species,52640,Middle Pleistocene,,0.781,0.126,35161,YES
+926258,occ,,,55494,Protonycteris gunnelli,species,178566,Ypresian,,56,47.8,35350,n
+926259,occ,,,55494,Hassianycteris kumari,species,178572,Ypresian,,56,47.8,35350,n
+926260,occ,,,55494,Microchiropteryx folieae,species,178575,Ypresian,,56,47.8,35350,n
+934318,occ,,,82258,Myotis keenii,species,52642,Late Pleistocene,,0.126,0.0117,35381,YES
+934319,occ,,,82258,Myotis lucifugus,species,52644,Late Pleistocene,,0.126,0.0117,35381,YES
+934320,occ,,,82258,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,35381,YES
+934325,occ,,,82258,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,35381,YES
+934327,occ,,,82258,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,35381,YES
+934328,occ,,,82258,Lasiurus borealis,species,52636,Late Pleistocene,,0.126,0.0117,35381,YES
+1012869,occ,,,93332,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,39873,YES
+1012870,occ,,,93332,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,39873,YES
+1012872,occ,,,93332,Lasiurus borealis,species,52636,Late Pleistocene,,0.126,0.0117,39873,YES
+1012875,occ,,,93332,Myotis grisescens,species,119647,Late Pleistocene,,0.126,0.0117,39873,YES
+1012877,occ,,,123875,Eptesicus fuscus,species,52640,Pleistocene,,2.588,0.0117,39873,YES
+1012878,occ,,,123875,Pipistrellus subflavus,species,52648,Pleistocene,,2.588,0.0117,39873,YES
+1012880,occ,,,123875,Lasiurus borealis,species,52636,Pleistocene,,2.588,0.0117,39873,YES
+1012881,occ,,,123875,Tadarida brasiliensis,species,49249,Pleistocene,,2.588,0.0117,39873,YES
+1014181,occ,,,124199,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,39856,YES
+1014182,occ,,,124199,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,39856,YES
+1015145,occ,,,124089,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,39880,YES
+1015146,occ,,,124089,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,39880,YES
+1028320,occ,,,125941,Pipistrellus subflavus,species,52648,Pleistocene,,2.588,0.0117,40888,YES
+1028321,occ,,,125941,Lasiurus borealis,species,52636,Pleistocene,,2.588,0.0117,40888,YES
+1028931,occ,,,124319,Myotis leibi,species,52643,Pleistocene,,2.588,0.0117,40654,YES
+1028932,occ,,,124319,Eptesicus fuscus,species,52640,Pleistocene,,2.588,0.0117,40654,YES
+1028933,occ,,,124319,Pipistrellus subflavus,species,52648,Pleistocene,,2.588,0.0117,40654,YES
+1033763,occ,,,93332,Desmodus stocki,species,45613,Late Pleistocene,,0.126,0.0117,40654,n
+1033823,occ,,,20555,Eptesicus fuscus,species,52640,Irvingtonian,,1.8,0.3,40654,YES
+1033824,occ,,,20555,Pipistrellus subflavus,species,52648,Irvingtonian,,1.8,0.3,40654,YES
+1034196,occ,,,20302,Plecotus alleganiensis,species,45286,Irvingtonian,,1.8,0.3,41080,n
+1037622,occ,,,93332,Desmodus stocki,species,45613,Late Pleistocene,,0.126,0.0117,41246,n
+1040207,occ,,,48126,Rhinolophus yongyuthi,species,234176,Middle Miocene,,15.97,11.608,41424,n
+1040209,occ,,,48126,Hipposideros felix,species,234178,Middle Miocene,,15.97,11.608,41424,n
+1040211,occ,,,48126,Rhizomops mengraii,species,234182,Middle Miocene,,15.97,11.608,41424,n
+1079819,occ,,F,133648,Notonycteris magdalenensis,species,249112,Laventan,,13.8,11.8,43341,n
+1096510,occ,,,87795,Dizzya exsultans,species,255586,Ypresian,Lutetian,56,41.3,44327,n
+1132115,occ,,,144064,Noctilio lacrimaelunaris,species,266644,Huayquerian,,9,6.8,46577,n
+1133545,occ,,,140012,Kiotomops lopezi,species,266938,Laventan,,13.8,11.8,46651,n
+1135756,occ,,,144663,Eptesicus fuscus,species,52640,Holocene,,0.0117,0,46815,YES
+1135758,occ,,,144663,Tadarida brasiliensis,species,49249,Holocene,,0.0117,0,46815,YES
+1140697,occ,,,13749,Noctilio albiventris,species,269558,Friasian,,16.3,15.5,46980,YES
+1140700,occ,,F,13749,Notonycteris magdalenensis,species,249112,Friasian,,16.3,15.5,46980,n
+1140744,occ,,,13749,Thyroptera robusta,species,269560,Friasian,,16.3,15.5,46980,n
+1140808,occ,,,144401,Potamops mascahehenes,species,269566,Laventan,,13.8,11.8,46980,n
+1144022,occ,,F,145614,Notonycteris magdalenensis,species,249112,Laventan,,13.8,11.8,47088,n
+1144023,occ,,,145614,Notonycteris sucharadeus,species,270343,Laventan,,13.8,11.8,47088,n
+1144024,occ,,,13749,Notonycteris sucharadeus,species,270343,Friasian,,16.3,15.5,47088,n
+1144025,occ,,,13749,Palynephyllum antimaster,species,270345,Friasian,,16.3,15.5,47088,n
+1144026,occ,,,13749,Thyroptera lavali,species,270346,Friasian,,16.3,15.5,47088,YES
+1145299,occ,,,145845,Desmodus archaeodaptes,species,270547,Irvingtonian,,1.8,0.3,47135,n
+1145424,occ,,,145874,Desmodus draculae,species,270550,Early Pleistocene,,2.588,0.781,47135,n
+1155905,occ,,,147815,Chrotopterus auritus,species,273786,Pleistocene,Holocene,2.588,0,47558,YES
+1196129,occ,,,154722,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,50316,YES
+1196130,occ,,,154722,Eptesicus fuscus,species,52640,Late Pleistocene,,0.126,0.0117,50316,YES
+1196131,occ,,,154722,Nycticeius humeralis,species,52641,Late Pleistocene,,0.126,0.0117,50316,YES
+1196912,occ,,,154805,Myotis austroriparius,species,52635,Late Pleistocene,,0.126,0.0117,2451,YES
+1196913,occ,,,154805,Myotis grisescens,species,119647,Late Pleistocene,,0.126,0.0117,2451,YES
+1196915,occ,,,154805,Lasiurus intermedius,species,47494,Late Pleistocene,,0.126,0.0117,2451,YES
+1196916,occ,,,154805,Pipistrellus subflavus,species,52648,Late Pleistocene,,0.126,0.0117,2451,YES
+1201172,occ,,,155393,Antrozous pallidus,species,52646,Late Pleistocene,,0.126,0.0117,50711,YES
+1234333,occ,,,162464,Dhofarella thaleri,species,306558,Early Oligocene,,33.9,28.4,52912,n
+1234334,occ,,,162464,Chibanycteris herberti,species,306561,Early Oligocene,,33.9,28.4,52912,n
+1234335,occ,,,162464,Hipposideros omani,species,306559,Early Oligocene,,33.9,28.4,52912,n
+1262948,occ,,,167717,Rhinolophus euryale,species,94476,Pliocene,,5.333,2.588,54770,YES
+1265782,occ,,,75481,Eptesicus campanensis,species,56998,MN 9,,11.1,9.7,55045,n
+1265784,occ,,,75481,Miostrellus risgoviensis,species,92015,MN 9,,11.1,9.7,55045,n
+1309132,occ,,,152098,Mystacina miocenalis,species,333939,Altonian,,19,15.9,57474,n
+1309133,occ,,,73690,Mystacina miocenalis,species,333939,Altonian,,19,15.9,57474,n
+1309290,occ,,,59088,Australonycteris clarkae,species,333972,Ypresian,,56,47.8,1780,n
+1310619,occ,,,175909,Vampyravus orientalis,species,136268,Rupelian,,33.9,28.1,57654,n
+1313596,occ,,,141368,Mormopterus barrancae,species,335780,Colhuehuapian,,21,17.5,57940,n
+1322789,occ,,,84793,Archaeopteropus transiens,species,135790,Early Oligocene,,33.9,28.4,58872,n
+1342703,occ,,,181610,Macroderma koppa,species,346702,Early Pliocene,,5.333,3.6,60396,n
+1346155,occ,,,79200,Archaeonycteris praecursor,species,347199,Early Eocene,,55.8,48.6,60625,n
+1348147,occ,,,38868,Eppsinycteris anglica,species,57564,Ypresian,,56,47.8,60859,n
+1349879,occ,,,182933,Hipposideros bernardsigei,species,348472,Miocene,,23.03,5.333,61034,n
+1349880,occ,,,182935,Miophyllorhina riversleighensis,species,348473,Miocene,,23.03,5.333,61036,n
+1349882,occ,,,182936,Riversleigha williamsi,species,348471,Miocene,,23.03,5.333,61037,n
+1350016,occ,,,182958,Macroderma koppa,species,346702,Early Pliocene,,5.333,3.6,61056,n
+1350430,occ,,,31720,Stehlinia gracilis,species,136294,Bartonian,,41.3,38,60954,n
+1350607,occ,,,183123,Rhinolophus ferrumequinum,species,236716,Pleistocene,,2.588,0.0117,61123,YES
+1350872,occ,,F,67706,Aegyptonycteris knightae,species,348328,Priabonian,,38,33.9,61141,n
+1352264,occ,,,183381,Vespertiliavus gracilis,species,348690,Rupelian,,33.9,28.1,61220,n
+1352265,occ,,,183381,Palaeophyllophora quercyi,species,348691,Rupelian,,33.9,28.1,61220,n
+1352266,occ,,,183381,Hipposideros schlosseri,species,255161,Rupelian,,33.9,28.1,61220,n
+1352267,occ,,,183381,Vaylatsia prisca,species,348693,Rupelian,,33.9,28.1,61220,n
+1352288,occ,,,183382,Hipposideros schlosseri,species,255161,MP 20,MP 21,37.2,28.4,61221,n
+1352289,occ,,,183382,Palaeophyllophora quercyi,species,348691,MP 20,MP 21,37.2,28.4,61221,n
+1352290,occ,,,183382,Vaylatsia prisca,species,348693,MP 20,MP 21,37.2,28.4,61221,n
+1352292,occ,,,183382,Vespertiliavus gracilis,species,348690,MP 20,MP 21,37.2,28.4,61221,n
+1352294,occ,,,183382,Stehlinia gracilis,species,136294,MP 20,MP 21,37.2,28.4,61221,n
+1352937,occ,,,183452,Stehlinia gracilis,species,136294,MP 22,,33.9,28.4,61260,n
+1352938,occ,,,183452,Stehlinia bonisi,species,348689,MP 22,,33.9,28.4,61260,n
+1352939,occ,,,183452,Vespertiliavus gracilis,species,348690,MP 22,,33.9,28.4,61260,n
+1352940,occ,,,183452,Hipposideros morloti,species,348692,MP 22,,33.9,28.4,61260,n
+1352941,occ,,,183452,Palaeophyllophora quercyi,species,348691,MP 22,,33.9,28.4,61260,n
+1352942,occ,,,183452,Vaylatsia prisca,species,348693,MP 22,,33.9,28.4,61260,n
+1352943,occ,,,183452,Mixopteryx dubia,species,348695,MP 22,,33.9,28.4,61260,n
+1352944,occ,,,183452,Mixopteryx weithoferi,species,348696,MP 22,,33.9,28.4,61260,n
+1354664,occ,,,12842,Hipposideros schlosseri,species,255161,Priabonian,,38,33.9,61372,n
+1354665,occ,,,12842,Palaeophyllophora quercyi,species,348691,Priabonian,,38,33.9,61372,n
+1354666,occ,,,12842,Palaeophyllophora oltina,species,349278,Priabonian,,38,33.9,61372,n
+1354668,occ,,,12842,Rhinolophus priscus,species,136292,Priabonian,,38,33.9,61372,n
+1355345,occ,,,41116,Lapichiropteryx xiei,species,349786,Sharamurunian,,48.6,37.2,61481,n
+1356564,occ,,,184174,Vespertiliavus lapradei,species,350418,MP 14,,48.6,40.4,61561,n
